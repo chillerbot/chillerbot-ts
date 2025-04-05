@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "tsc": "^2.0.4"
+  },
+  "name": "chillerbot-ts",
+  "version": "1.0.0",
+  "description": "not much to see here just some small client using https://github.com/swarfeya/teeworlds-library-ts",
+  "main": "index.js",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chillerbot/chillerbot-ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chillerbot/chillerbot-ts/issues"
+  },
+  "homepage": "https://github.com/chillerbot/chillerbot-ts#readme"
+}
