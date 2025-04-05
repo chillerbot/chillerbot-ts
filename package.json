@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "teeworlds": "^2.5.5",
     "tsc": "^2.0.4"
   },
   "name": "chillerbot-ts",
@@ -7,10 +8,11 @@
   "description": "not much to see here just some small client using https://github.com/swarfeya/teeworlds-library-ts",
   "main": "index.js",
   "devDependencies": {
+    "ts-node": "^10.9.2",
     "typescript": "^5.8.3"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "chillerbot-ts": "npx ts-node src/index.ts"
   },
   "repository": {
     "type": "git",
